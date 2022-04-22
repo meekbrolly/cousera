@@ -6,16 +6,13 @@ h1 {
   margin-bottom: 15px;
 }
 
-.section {
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
   border: 1px solid black;
   background-color: gray;
   height: 150px;
   margin: 15px 15px;
-}
-
-/* Simple Responsive Framework. */
-.row {
-  width: 100%;
 }
 
 /********** Desktop **********/
