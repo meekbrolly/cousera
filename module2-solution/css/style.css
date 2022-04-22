@@ -1,17 +1,32 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  font-family: 
 }
 h1 {
   margin-bottom: 15px;
 }
+.section{
+  border: 1px solid black;
+  background-color: gray;
+  margin: 15px 15px;
+  padding: 5px 5px;
+}
+p{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+.food{
+  background-color: white;
+  border: 1px solid black;
+  padding: 5px;
+}
+
 
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
-  border: 1px solid black;
-  background-color: gray;
-  margin: 15px 15px;
 }
 
 /********** Desktop **********/
