@@ -1,3 +1,25 @@
 body {
-  text-color: #482673;
+  font-size: 16px;
+}
+h1{
+  font-size: 1.2em;
+  margin-top: 0;
+}
+#nav-list{
+  text-align: center;
+  margin: 0;
+  background-color: white;
+}
+#header-nav{
+  background-color: #e0dfdc;
+}
+#bs-example-navbar-collapse-1{
+  padding: 0;
+}
+#nav-list li{
+  border: #e0dfdc solid 0.5px;
+}
+.tall-section{
+  background-color: #e0dfdc;
+  padding: 5px;
 }
